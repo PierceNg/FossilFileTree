@@ -1,0 +1,1 @@
+I am an error condition in MCFossil.

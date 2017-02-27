@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"fossilCommand" : "PierceNg 2/26/2017 22:27",
+		"fossilCommand:" : "PierceNg 2/26/2017 22:25" },
+	"instance" : {
+		"add:" : "PierceNg 2/26/2017 23:51",
+		"addExtras" : "PierceNg 2/26/2017 22:57",
+		"basicExtras" : "PierceNg 2/26/2017 22:55",
+		"changes" : "PierceNg 2/26/2017 22:37",
+		"commit:" : "PierceNg 2/26/2017 23:51",
+		"delete:" : "PierceNg 2/26/2017 23:51",
+		"deleteMissing" : "PierceNg 2/26/2017 23:43",
+		"extras" : "PierceNg 2/26/2017 22:56",
+		"initialize" : "PierceNg 2/26/2017 22:34",
+		"missing" : "PierceNg 2/26/2017 23:43",
+		"prefixForMissing" : "PierceNg 2/26/2017 23:29",
+		"repoDir" : "PierceNg 2/26/2017 22:29",
+		"repoDir:" : "PierceNg 2/26/2017 22:29",
+		"runOSSubprocessFossilCommand:in:" : "PierceNg 2/26/2017 22:42",
+		"status" : "PierceNg 2/26/2017 22:35",
+		"version" : "PierceNg 2/26/2017 23:27" } }

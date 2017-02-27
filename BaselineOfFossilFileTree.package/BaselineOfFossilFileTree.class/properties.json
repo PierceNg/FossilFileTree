@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfFossilFileTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PierceNg 2/27/2017 19:20",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfFossilFileTree",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

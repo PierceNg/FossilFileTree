@@ -1,0 +1,14 @@
+{
+	"category" : "MonticelloFileTree-Fossil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PierceNg 2/27/2017 20:04",
+	"instvars" : [
+		"fossilRepo" ],
+	"name" : "MCFileTreeFossilRepository",
+	"pools" : [
+		 ],
+	"super" : "MCFileTreeRepository",
+	"type" : "normal" }
