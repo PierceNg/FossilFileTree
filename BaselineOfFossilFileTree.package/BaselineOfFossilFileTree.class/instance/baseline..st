@@ -10,5 +10,5 @@ baseline: spec
 			yourself.
 		
 		spec package: 'MonticelloFileTree-Fossil' with: [ 
-			spec requires: #('MonticelloFileTree-Core' 'OSSubprocess') ];
+			spec requires: #('OSSubprocess') ];
 			yourself ]
