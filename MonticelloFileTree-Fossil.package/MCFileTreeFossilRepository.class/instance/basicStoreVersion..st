@@ -3,6 +3,5 @@ basicStoreVersion: aVersion
 	
 	super basicStoreVersion: aVersion.
 	(MCFossil new repoDir: self directory fullName)
-		addExtras;
-		deleteMissing;
+		addRemove;
 		commit: aVersion info message.
